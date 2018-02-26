@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Android Projects\Retrofiti-01-Retrofiti-Solution\Retrofiti.iml" filepath="C:\Android Projects\Retrofiti-01-Retrofiti-Solution\Retrofiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retrofiti-01-Retrofiti-Solution.iml" filepath="$PROJECT_DIR$/Retrofiti-01-Retrofiti-Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Android Projects\Retrofiti-01-Retrofiti-Solution\app\app.iml" filepath="C:\Android Projects\Retrofiti-01-Retrofiti-Solution\app\app.iml" />
+    </modules>
+  </component>
+</project>
